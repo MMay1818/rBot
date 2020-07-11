@@ -1,3 +1,5 @@
+// Version  1.1.4.0 \\
+
 const express = require("express");
 const config = require("./config.json");
 const Discord = require("discord.js");
